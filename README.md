@@ -8,7 +8,25 @@
 ![Research](https://img.shields.io/badge/Focus-Engineering%20Research-purple?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellowgreen)
 
-This tutorial is intended to provide clear and practical guidance on how IET competences should be written for a professional registration application. It explains the recommended structure by working through a single competence and demonstrating how the **STAR** and **SMART** techniques can be applied effectively.
+# IET UK-SPEC Competence Writing Framework (STAR & SMART)
+
+This repository provides practical guidance on how to write IET professional registration competences using the official UK-SPEC framework.
+
+It demonstrates how to structure competence evidence clearly and effectively by combining:
+- The **STAR** technique (Situation, Task, Action, Result), and
+- **SMART** objectives (Specific, Measurable, Achievable, Relevant, Time-bound).
+
+The material is suitable for applicants and mentors supporting:
+- Chartered Engineer (CEng)
+- Incorporated Engineer (IEng)
+- Engineering Technician (EngTech / ICTTech)
+
+All examples are written in line with IET assessor expectations and focus on:
+- First-person (“I”) evidence,
+- Measurable outcomes,
+- Professional responsibility and impact.
+
+This wiki is intended to provide clear and practical guidance on how IET competences should be written for a professional registration application. It explains the recommended structure by working through a single competence and demonstrating how the **STAR** and **SMART** techniques can be applied effectively.
 
 To ensure the guidance is accurate and aligned with assessor expectations, the structure presented here is based on a detailed review of the official **UK-SPEC framework**, which is used by the IET for both **Chartered Engineer (CEng)** and **Incorporated Engineer (IEng)** registrations.
 
