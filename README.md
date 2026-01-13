@@ -5,7 +5,6 @@
 ![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Compatible-green?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Documentation%20Hub-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellowgreen)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/<user>/<repo>/main.yml?branch=main)
 ![GitHub release (latest)](https://img.shields.io/github/v/release/<user>/<repo>)
