@@ -41,7 +41,7 @@ All examples are written in line with IET assessor expectations and focus on:
 ---
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](./LICENSE).
 
 ---
 
