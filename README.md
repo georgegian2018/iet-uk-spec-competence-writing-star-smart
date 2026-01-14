@@ -11,6 +11,15 @@
 ![GitHub stars](https://img.shields.io/github/stars/<user>/<repo>)
 ![GitHub forks](https://img.shields.io/github/forks/<user>/<repo>)
 
+![IET Chartered Engineer](https://img.shields.io/badge/IET-Chartered%20Engineer-blue)
+![UK-SPEC Aligned](https://img.shields.io/badge/UK--SPEC-Aligned-success)
+![STAR Method](https://img.shields.io/badge/STAR-Methodology-informational)
+![SMART Objectives](https://img.shields.io/badge/SMART-Objectives-brightgreen)
+![CPD Included](https://img.shields.io/badge/CPD-Included-verified)
+![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
+![AI Assisted](https://img.shields.io/badge/AI-Assisted-lightgrey)
+
+
 ---
 
 This repository provides practical guidance on how to write IET professional registration competences using the official UK-SPEC framework.
